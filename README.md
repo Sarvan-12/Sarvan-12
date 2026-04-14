@@ -59,17 +59,17 @@ sarvan = {
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48"/><br>C++
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" height="48"/><br>C++
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=java" width="48" height="48"/><br>Java
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48"/><br>Java
 </td>
 </tr>
 
 <tr>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48"/><br>React
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48"/><br>React
 </td>
 
 <td align="center" width="96">
@@ -200,5 +200,4 @@ sarvan = {
 </a>
 
 </div>
-
 
