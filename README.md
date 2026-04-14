@@ -193,11 +193,10 @@ sarvan = {
 
 <div align="center">
 
-<a href="https://www.chess.com/member/yan_sarvan" style="text-decoration:none;">
-  <img src="https://img.icons8.com/color/48/chess-com.png" height="28" style="vertical-align:middle;"/>
-  <span style="font-size:20px; font-weight:600; color:#ffffff; vertical-align:middle;">
-    Chess.com
-  </span>
+<div align="center">
+
+<a href="https://www.chess.com/member/yan_sarvan">
+  <img src="https://img.shields.io/badge/Chess.com-%237FA650.svg?style=for-the-badge&logo=chessdotcom&logoColor=white"/>
 </a>
 
 </div>
