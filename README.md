@@ -1,26 +1,205 @@
-# 💫 About Me:
-I’m Sarvan, an AI & DS engineering student who enjoys building real-world tools with clean logic and practical execution. I’ve interned at Unicourt India, where I integrated an AdminJS audit logging system into their existing application, and at A1 Logics, where I built Summit Hub, a full-stack conference management platform. My projects include a 30-year Land Use and Land Cover analysis using U-Net and Dash, AutoDocX — an AI-powered Python documentation tool using LLMs, FastAPI, and Streamlit — along with several other ML and full-stack builds. I’m skilled in Python, Java, C, JavaScript, and databases like MySQL and MongoDB, and I also work with tools like Flutter and Docker. I actively improve my DSA skills and currently hold a GfG rating of 1668, a LeetCode rating of 1515, and 350+ problems solved. I’ve been a top 10% performer in SAP Hackfest and a winner at an IEEE hackathon. I love building, learning, and constantly leveling up my tech game.
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yan_sarvan) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarvan12/) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharvansuvarna12@gmail.com)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=SARVAN%20D%20SUVARNA&animation=twinkling&textBg=false&fontColor=FFFFFF" />
+</div>
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=100&color=00F5D4&center=true&vCenter=true&random=false&width=550&lines=AI+%26+Data+Science+Engineer;Full+Stack+%C3%97+Machine+Learning+%F0%9F%A7%AC;Building+at+the+edge+of+AI+%F0%9F%A4%96;Intern+by+day%2C+builder+by+night+%F0%9F%8C%99;"
+      alt="Typing SVG"
+    />
+  </a>
+</div>
 
-## 🔧 Tech Stack
+---
 
-<p align="center">
+## 💫 About Me
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,nodejs,fastapi,flask,mongodb,postgres,mysql,python,pytorch,tensorflow,opencv,docker,aws,git,github,linux" />
+```python
+sarvan = {
+    "pronouns"  : "he/him",
+    "role"      : "AI & Data Science Engineer",
+    "education" : "B.E. AI & DS (Final Year)",
+    "stack"     : ["Python", "Java", "JavaScript", "SQL", "Node.js", "HTML/CSS"],
+    "focus"     : ["Full-Stack Development", "ML Pipelines"],
+    "currently" : "Building real-world projects & preparing for jobs",
+    "motto"     : "Build simple. Make it work. Then scale."
+}
+```
 
-</p>
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sarvan-12&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sarvan-12&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvan-12&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 💻 Tech Stack
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+
+<table border="1" cellspacing="0" cellpadding="8">
+
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48"/><br>HTML
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48"/><br>CSS
+</td>
+
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48"/><br>JavaScript
+</td>
+
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48"/><br>TypeScript
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=c" width="48" height="48"/><br>C
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48"/><br>C++
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48"/><br>Java
+</td>
+</tr>
+
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48"/><br>React
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48"/><br>Next.js
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48"/><br>Tailwind
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=flutter" width="48" height="48"/><br>Flutter
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48"/><br>Node.js
+</td>
+
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48"/><br>Python
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48"/><br>VS Code
+</td>
+</tr>
+
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48"/><br>MongoDB
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48"/><br>PostgreSQL
+</td>
+
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48"/><br>MySQL
+</td>
+
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48"/><br>Docker
+</td>
+
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48"/><br>GitHub
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48"/><br>Git
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48"/><br>Linux
+</td>
+</tr>
+
+</table>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<img src="https://readme-stats-card-ruddy.vercel.app/api?username=Sarvan-12&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" height="175"/>
+</td>
+
+<td align="center">
+<img src="https://readme-stats-card-ruddy.vercel.app/api/top-langs/?username=Sarvan-12&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="175"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://streak-stats.demolab.com?user=Sarvan-12&theme=transparent&hide_border=true" height="175"/>
+</td>
+
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="200"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://instagram.com/yan_sarvan">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/sarvan12/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:contact.sharvansuvarna12@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
+
+---
+
+## ♟️ Chess
+> I play chess regularly and enjoy competitive games  
+> Open for challenges — let’s play
+
+<div align="center">
+
+<a href="https://www.chess.com/member/yan_sarvan" style="text-decoration:none;">
+  <img src="https://img.icons8.com/color/48/chess-com.png" height="28" style="vertical-align:middle;"/>
+  <span style="font-size:20px; font-weight:600; color:#ffffff; vertical-align:middle;">
+    Chess.com
+  </span>
+</a>
+
+</div>
+
 
