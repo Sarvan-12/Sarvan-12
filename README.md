@@ -150,7 +150,7 @@ sarvan = {
 
 <tr>
 <td align="center">
-<img src="https://streak-stats.demolab.com?user=Sarvan-12&theme=transparent&hide_border=true" height="175"/>
+<img src="https://streak-stats.demolab.com?user=Sarvan-12&theme=transparent&hide_border=true&v=1" height="175"/>
 </td>
 
 <td align="center">
