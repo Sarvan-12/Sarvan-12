@@ -140,7 +140,7 @@ sarvan = {
 <table>
 <tr>
 <td align="center">
-<img src="https://readme-stats-card-ruddy.vercel.app/api?username=Sarvan-12&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" height="175"/>
+<img src="https://readme-stats-card-ruddy.vercel.app/api?username=Sarvan-12&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&v=1" height="175"/>
 </td>
 
 <td align="center">
