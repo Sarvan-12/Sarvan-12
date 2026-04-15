@@ -154,7 +154,7 @@ sarvan = {
 </td>
 
 <td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="200"/>
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" height="200"/>
 </td>
 </tr>
 </table>
@@ -173,7 +173,7 @@ sarvan = {
 <a href="https://www.linkedin.com/in/sarvan12/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:contact.sharvansuvarna12@gmail.com">
+<a href="mailto:sharvansuvarna12@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
