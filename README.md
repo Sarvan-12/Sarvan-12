@@ -27,7 +27,7 @@ sarvan = {
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="28"/> Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/High%20Voltage.png" width="28"/> Tech Stack
 
 <div align="center">
 
@@ -129,7 +129,7 @@ sarvan = {
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28"/> GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Fire.png" width="28"/> GitHub Stats
 
 <div align="center">
 
@@ -177,7 +177,7 @@ sarvan = {
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="28"/> Random Dev Quote
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smileys/Brain.png" width="28"/> Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
 
