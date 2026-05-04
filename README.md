@@ -11,7 +11,7 @@
 ---
 
 
-## 💫 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="28"/> About Me
 
 ```python
 sarvan = {
@@ -27,7 +27,7 @@ sarvan = {
 
 ---
 
-## 💻 Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="28"/> Tech Stack
 
 <div align="center">
 
@@ -129,7 +129,7 @@ sarvan = {
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28"/> GitHub Stats
 
 <div align="center">
 
@@ -159,7 +159,7 @@ sarvan = {
 
 ---
 
-## 🌐 Let's Connect
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" width="28"/> Let's Connect
 
 <div align="center">
 
@@ -177,13 +177,13 @@ sarvan = {
 
 ---
 
-## ✍️ Random Dev Quote
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="28"/> Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
 
 ---
 
-## ♟️ Chess
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Chess%20Pawn.png" width="28"/> Chess
 > I play chess regularly and enjoy competitive games  
 > Open for challenges — let’s play
 
