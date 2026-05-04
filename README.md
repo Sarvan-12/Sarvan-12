@@ -125,10 +125,6 @@ sarvan = {
 
 </table>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Sarvan-12&style=for-the-badge&color=0079d3&label=PROFILE+VIEWS" alt="Profile Views"/>
-
 </div>
 
 ---
@@ -158,10 +154,6 @@ sarvan = {
 </td>
 </tr>
 </table>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Sarvan-12&style=for-the-badge&color=0079d3&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
