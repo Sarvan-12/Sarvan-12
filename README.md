@@ -159,6 +159,15 @@ sarvan = {
 
 ---
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="28"/> Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarvan-12&theme=github-compact&hide_border=true&bg_color=0d1117&color=D7F753&line=D7F753&point=ffffff&area=true" />
+</div>
+
+---
+
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" width="28"/> Let's Connect
 
 <div align="center">
