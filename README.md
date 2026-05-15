@@ -30,101 +30,27 @@ sarvan = {
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="28"/> Tech Stack
 
 <div align="center">
-
-<table border="1" cellspacing="0" cellpadding="8">
-
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48"/><br>HTML
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48"/><br>CSS
-</td>
-
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48"/><br>JavaScript
-</td>
-
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48"/><br>TypeScript
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=c" width="48" height="48"/><br>C
-</td>
-
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" height="48"/><br>C++
-</td>
-
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48"/><br>Java
-</td>
-</tr>
-
-<tr>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48"/><br>React
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48"/><br>Next.js
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48"/><br>Tailwind
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=flutter" width="48" height="48"/><br>Flutter
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48"/><br>Node.js
-</td>
-
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48"/><br>Python
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48"/><br>VS Code
-</td>
-</tr>
-
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48"/><br>MongoDB
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48"/><br>PostgreSQL
-</td>
-
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48"/><br>MySQL
-</td>
-
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48"/><br>Docker
-</td>
-
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48"/><br>GitHub
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48"/><br>Git
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=linux" width="48" height="48"/><br>Linux
-</td>
-</tr>
-
-</table>
-
+  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS"/>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript"/>
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C"/>
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" height="48" alt="C++"/>
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="Java"/>
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind"/>
+  <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/>
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL"/>
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker"/>
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/>
 </div>
 
 ---
@@ -159,10 +85,10 @@ sarvan = {
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28"/> Activity & Achievements
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="28"/> Contribution Graph
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sarvan-12&theme=dracula&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarvan-12&theme=github-compact&hide_border=true&bg_color=0d1117&color=D7F753&line=D7F753&point=ffffff&area=true" />
 </div>
 
 ---
