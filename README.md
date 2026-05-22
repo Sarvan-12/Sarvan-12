@@ -27,7 +27,7 @@ sarvan = {
 
 ---
 
-## 🚀 Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28"/> Featured Projects
 
 <div align="center">
   <a href="https://github.com/Sarvan-12/ai-code-review-tool">
