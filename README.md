@@ -149,10 +149,10 @@ sarvan = {
 
 <div align="center">
 
-<img src="https://github-stats-engine.vercel.app/api?username=Sarvan-12&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800&v=5" height="175" alt="GitHub Stats"/>
-<img src="https://github-stats-engine.vercel.app/api/top-langs?username=Sarvan-12&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800&v=5" height="175" alt="Top Languages"/>
+<img src="https://github-stats-engine.vercel.app/api?username=Sarvan-12&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800&v=6" height="175" alt="GitHub Stats"/>
+<img src="https://github-stats-engine.vercel.app/api/top-langs?username=Sarvan-12&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800&v=6" height="175" alt="Top Languages"/>
 <br/>
-<img src="https://streak-stats.demolab.com?user=Sarvan-12&theme=transparent&hide_border=true&cache_seconds=1800" height="175" alt="Streak Stats"/>
+<img src="https://streak-stats.demolab.com?user=Sarvan-12&theme=transparent&hide_border=true&cache_seconds=1800&v=6" height="175" alt="Streak Stats"/>
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" height="175" alt="Coding GIF"/>
 
 </div>
