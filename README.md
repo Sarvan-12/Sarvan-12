@@ -43,10 +43,6 @@ sarvan = {
     <img src="https://github-readme-stats-sable-kappa-18.vercel.app/api/pin/?username=Sarvan-12&repo=land-use-land-cover-using-U-net&theme=radical&hide_border=true&cache_seconds=1800" />
   </a>
 
-  <a href="https://github.com/Sarvan-12/Summit-Hub">
-    <img src="https://github-readme-stats-sable-kappa-18.vercel.app/api/pin/?username=Sarvan-12&repo=Summit-Hub&theme=radical&hide_border=true&cache_seconds=1800" />
-  </a>
-
   <a href="https://github.com/Sarvan-12/time-capsule">
     <img src="https://github-readme-stats-sable-kappa-18.vercel.app/api/pin/?username=Sarvan-12&repo=time-capsule&theme=radical&hide_border=true&cache_seconds=1800" />
   </a>
