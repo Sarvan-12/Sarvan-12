@@ -1,11 +1,16 @@
 
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=SARVAN%20D%20SUVARNA&animation=twinkling&textBg=false&fontColor=FFFFFF" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D7F753&width=435&lines=AI+%26+Data+Science+Engineer;Full-Stack+%C3%97+Machine+Learning;Code+%E2%86%92+Build+%E2%86%92+Deploy" alt="Typing SVG" /></a>
+</div>
+
+<div align="center">
+  <a href="https://sarvan.me" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-sarvan.me-D7F753?style=for-the-badge&logo=react&logoColor=black&labelColor=000000" alt="Portfolio" height="40"/>
+  </a>
 </div>
 
 ---
@@ -178,6 +183,9 @@ sarvan = {
 
 <div align="center">
 
+<a href="https://sarvan.me">
+  <img src="https://img.shields.io/badge/Portfolio-sarvan.me-D7F753?style=for-the-badge&logo=react&logoColor=black"/>
+</a>
 <a href="https://instagram.com/yan_sarvan">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
@@ -215,4 +223,3 @@ sarvan = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:00F5D4&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=ffffff&animation=twinkling&fontAlignY=75" />
 </div>
-
