@@ -179,17 +179,14 @@ sarvan = {
 
 <div align="center">
 
-<a href="https://sarvan.me">
-  <img src="https://img.shields.io/badge/Portfolio-sarvan.me-D7F753?style=for-the-badge&logo=react&logoColor=black"/>
-</a>
-<a href="https://instagram.com/yan_sarvan">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-</a>
 <a href="https://www.linkedin.com/in/sarvan12/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:sharvansuvarna12@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://instagram.com/yan_sarvan">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
 
 </div>
