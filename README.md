@@ -159,7 +159,7 @@ sarvan = {
 <img src="https://github-stats-engine.vercel.app/api?username=Sarvan-12&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800&v=6" height="175" alt="GitHub Stats"/>
 <img src="https://github-stats-engine.vercel.app/api/top-langs?username=Sarvan-12&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800&v=6" height="175" alt="Top Languages"/>
 <br/>
-<img src="https://streak-stats.vercel.app?user=Sarvan-12&theme=transparent&hide_border=true&cache_seconds=1800&v=7" height="175" alt="Streak Stats"/>
+<img src="https://streak-stats.vercel.app?user=Sarvan-12&theme=transparent&hide_border=true&background=00000000&ring=D7F753&fire=D7F753&currStreakLabel=D7F753&sideLabels=8b949e&dates=8b949e&sideNums=f0f3f6&currStreakNum=f0f3f6&cache_seconds=1800&v=8" height="175" alt="Streak Stats"/>
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" height="175" alt="Coding GIF"/>
 
 </div>
