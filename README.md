@@ -146,6 +146,62 @@ sarvan = {
 </td>
 </tr>
 
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=express" width="48" height="48"/><br>Express.js
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48"/><br>FastAPI
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48"/><br>TensorFlow
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48"/><br>PyTorch
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48"/><br>Pandas/NumPy
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48"/><br>Firebase
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postman" width="48" height="48"/><br>Postman
+</td>
+</tr>
+
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vercel" width="48" height="48"/><br>Vercel
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=netlify" width="48" height="48"/><br>Netlify
+</td>
+
+<td align="center" width="96">
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48"/><br>Hugging Face
+</td>
+
+<td align="center" width="96">
+</td>
+
+<td align="center" width="96">
+</td>
+
+<td align="center" width="96">
+</td>
+
+<td align="center" width="96">
+</td>
+</tr>
+
 </table>
 
 </div>
