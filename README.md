@@ -149,10 +149,10 @@ sarvan = {
 <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48"/><br>PyTorch
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=pandas" width="48" height="48"/><br>Pandas
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48"/><br>Pandas
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=numpy" width="48" height="48"/><br>NumPy
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48"/><br>NumPy
 </td>
 <td align="center" width="96">
 <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48"/><br>Hugging Face
