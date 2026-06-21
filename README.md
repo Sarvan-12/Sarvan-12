@@ -217,7 +217,9 @@ sarvan = {
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" width="28"/> Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</div>
 
 ---
 
