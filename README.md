@@ -178,11 +178,26 @@ sarvan = {
 
 <div align="center">
 
-<img src="https://github-stats-engine.vercel.app/api?username=Sarvan-12&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800&v=6" height="175" alt="GitHub Stats"/>
-<img src="https://github-stats-engine.vercel.app/api/top-langs?username=Sarvan-12&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800&v=6" height="175" alt="Top Languages"/>
-<br/>
-<img src="https://streak-stats.vercel.app?user=Sarvan-12&theme=transparent&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&sideNums=f0f3f6&currStreakNum=f0f3f6&cache_seconds=1800&v=9" height="175" alt="Streak Stats"/>
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" height="175" alt="Coding GIF"/>
+<table>
+  <tr>
+    <!-- Column 1: GitFut Card -->
+    <td valign="top" align="center">
+      <a href="https://gitfut.com/Sarvan-12">
+        <img src="https://gitfut.com/Sarvan-12.png?country=IN" height="358" alt="GitFut Card"/>
+      </a>
+    </td>
+    <!-- Column 2: Stats & Streaks -->
+    <td valign="top" align="center">
+      <img src="https://github-stats-engine.vercel.app/api?username=Sarvan-12&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800&v=6" height="175" alt="GitHub Stats"/><br/>
+      <img src="https://streak-stats.vercel.app?user=Sarvan-12&theme=transparent&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&sideNums=f0f3f6&currStreakNum=f0f3f6&cache_seconds=1800&v=9" height="175" alt="Streak Stats"/>
+    </td>
+    <!-- Column 3: Languages & GIF -->
+    <td valign="top" align="center">
+      <img src="https://github-stats-engine.vercel.app/api/top-langs?username=Sarvan-12&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800&v=6" height="175" alt="Top Languages"/><br/>
+      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" height="175" alt="Coding GIF"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
