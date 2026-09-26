@@ -118,15 +118,14 @@
   <img src="assets/h-chess.svg" width="200" alt="Chess" />
 </div>
 
-> I play chess regularly and enjoy competitive games  
-> Open for challenges — let’s play
-
 <div align="center">
+  <img src="assets/chess-note.svg" width="420" alt="I play chess regularly and enjoy competitive games. Open for challenges — let’s play" />
+</div>
 
 <div align="center">
 
 <a href="https://www.chess.com/member/yan_sarvan">
-  <img src="https://img.shields.io/badge/Chess.com-%237FA650.svg?style=for-the-badge&logo=chessdotcom&logoColor=white"/>
+  <img src="assets/badge-chess.svg" alt="Chess.com"/>
 </a>
 
 </div>
