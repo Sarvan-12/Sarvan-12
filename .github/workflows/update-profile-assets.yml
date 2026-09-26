@@ -1,4 +1,4 @@
-name: Update contribution graph
+name: Update profile assets
 
 on:
   schedule:
@@ -21,14 +21,21 @@ jobs:
       - name: Rebuild assets/contribution-graph.svg
         run: node scripts/update-contribution-graph.js
 
+      # A GitFut outage should not block the contribution graph update
+      - name: Rebuild assets/gitfut-card.svg
+        continue-on-error: true
+        run: |
+          npm install --no-save --no-audit --no-fund sharp
+          node scripts/update-gitfut-card.js
+
       - name: Commit if changed
         run: |
-          if git diff --quiet -- assets/contribution-graph.svg; then
+          if git diff --quiet -- assets/contribution-graph.svg assets/gitfut-card.svg; then
             echo "No changes"
           else
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add assets/contribution-graph.svg
-            git commit -m "chore: update contribution graph"
+            git add assets/contribution-graph.svg assets/gitfut-card.svg
+            git commit -m "chore: update contribution graph and GitFut card"
             git push
           fi
