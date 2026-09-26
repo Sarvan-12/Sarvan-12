@@ -83,6 +83,16 @@
 
 ---
 
+<div align="center">
+  <img src="assets/h-contribution-graph.svg" width="300" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="assets/contribution-graph.svg" width="800" alt="Contribution Graph" />
+</div>
+
+---
+
 
 <div align="center">
   <img src="assets/h-lets-connect.svg" width="240" alt="Let's Connect" />
