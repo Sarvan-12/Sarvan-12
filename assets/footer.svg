@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" width="1000" height="100">
+  <rect width="1000" height="100" fill="#1E2412"/>
+
+  <!-- corner brackets: top-left and bottom-right -->
+  <g fill="none" stroke="#D4A441" stroke-width="3" stroke-linecap="square">
+    <path d="M24 44 V24 H44"/>
+    <path d="M976 56 V76 H956"/>
+  </g>
+
+  <text x="500" y="56" text-anchor="middle" font-family="'Fira Code','Courier New',monospace" font-size="14" font-weight="600" letter-spacing="8" fill="#D4A441">THANKS FOR VISITING</text>
+</svg>

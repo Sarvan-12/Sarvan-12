@@ -130,6 +130,6 @@
 
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:00F5D4&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=ffffff&animation=twinkling&fontAlignY=75" />
-</div>
+---
+
+<img src="assets/footer.svg" width="100%" alt="Thanks for visiting" />
