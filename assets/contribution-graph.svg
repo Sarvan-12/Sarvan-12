@@ -5,8 +5,14 @@
     <linearGradient id="stroke" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#D4A441"/><stop offset="0.5" stop-color="#F5E6B8"/><stop offset="1" stop-color="#D4A441"/></linearGradient>
     <filter id="glow" x="-5%" y="-30%" width="110%" height="160%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
     <clipPath id="reveal"><rect x="0" y="0" width="0" height="312"><animate attributeName="width" from="0" to="800" dur="4.4s" begin="0.2s" fill="freeze"/></rect></clipPath>
+  <linearGradient id="cbord" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F8EBC4"/><stop offset="0.3" stop-color="#D4A441"/><stop offset="0.7" stop-color="#8a6a1f"/><stop offset="1" stop-color="#D4A441"/></linearGradient>
+    <filter id="cglow" x="-5%" y="-10%" width="110%" height="120%"><feGaussianBlur stdDeviation="4"/></filter>
+    <linearGradient id="csg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#FFF6D6" stop-opacity="0.12"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <clipPath id="cclip"><rect x="0.75" y="0.75" width="798.5" height="310.5" rx="10"/></clipPath>
   </defs>
-  <rect x="0.75" y="0.75" width="798.5" height="310.5" rx="10" fill="url(#bg)" stroke="#D4A441" stroke-opacity="0.55" stroke-width="1.5"/>
+  <rect x="0.75" y="0.75" width="798.5" height="310.5" rx="10" fill="none" stroke="#D4A441" stroke-width="5" opacity="0.35" filter="url(#cglow)"><animate attributeName="opacity" values="0.15;0.5;0.15" dur="5s" repeatCount="indefinite"/></rect>
+  <rect x="0.75" y="0.75" width="798.5" height="310.5" rx="10" fill="url(#bg)" stroke="url(#cbord)" stroke-width="1.5"/>
+  <line x1="14" x2="786" y1="2.5" y2="2.5" stroke="#fff" stroke-opacity="0.14"/>
   <g fill="none" stroke="#D4A441" stroke-width="2.5" stroke-linecap="square"><path d="M16 36 V16 H36"/><path d="M784 276 V296 H764"/></g>
 
   <circle cx="60" cy="34" r="4" fill="#D4A441"/>
@@ -28,4 +34,5 @@
     <animate attributeName="opacity" values="0.8;0" dur="3.2s" begin="5s" repeatCount="indefinite"/></circle>
     <circle cx="770.0" cy="256.0" r="5" fill="#D4A441" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="4.6s" dur="0.5s" fill="freeze"/></circle>
   
+<g clip-path="url(#cclip)"><polygon points="90,0 210,0 120,312 0,312" fill="url(#csg)" transform="translate(-230 0)"><animateTransform attributeName="transform" type="translate" values="-230 0;840 0;840 0" keyTimes="0;0.35;1" dur="10s" begin="1s" repeatCount="indefinite"/></polygon></g>
 </svg>
