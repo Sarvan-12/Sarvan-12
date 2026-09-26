@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 40" width="520" height="40">
+  <g fill="none" stroke="#D4A441" stroke-width="1.5">
+    <rect x="5" y="4" width="80" height="32" rx="16"/>
+    <rect x="97" y="4" width="126" height="32" rx="16"/>
+    <rect x="235" y="4" width="110" height="32" rx="16"/>
+    <rect x="357" y="4" width="157" height="32" rx="16"/>
+  </g>
+  <g font-family="'Fira Code','Courier New',monospace" font-size="13" font-weight="600" text-anchor="middle" fill="#D4A441">
+    <text x="45" y="25">he/him</text>
+    <text x="160" y="25">B.E. AI &amp; DS</text>
+    <text x="290" y="25">Full-Stack</text>
+    <text x="435.5" y="25">Machine Learning</text>
+  </g>
+</svg>

@@ -1,38 +1,34 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=SARVAN%20D%20SUVARNA&animation=twinkling&textBg=false&fontColor=FFFFFF" />
-</div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D7F753&width=435&center=true&vCenter=true&lines=AI+%26+Data+Science+Engineer;Full-Stack+%C3%97+Machine+Learning;Code+%E2%86%92+Build+%E2%86%92+Deploy" alt="Typing SVG" /></a>
-</div>
-
-<div align="center">
   <a href="https://sarvan.me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-sarvan.me-D7F753?style=for-the-badge&logo=react&logoColor=black&labelColor=000000" alt="Portfolio" height="40"/>
+    <img src="assets/header.svg" width="100%" alt="Sarvan D Suvarna — Portfolio" />
   </a>
 </div>
 
 ---
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="28"/> About Me
+<div align="center">
+  <img src="assets/h-about-me.svg" width="200" alt="About Me" />
+</div>
 
-```python
-sarvan = {
-    "pronouns"  : "he/him",
-    "role"      : "AI & Data Science Engineer",
-    "education" : "B.E. AI & DS (Final Year)",
-    "stack"     : ["Python", "Java", "JavaScript", "SQL", "Node.js", "HTML/CSS"],
-    "focus"     : ["Full-Stack Development", "ML Pipelines"],
-    "currently" : "Building real-world projects & preparing for jobs",
-    "motto"     : "Build simple. Make it work. Then scale."
-}
-```
+<p align="center">
+  Comfortable across the stack, from React front-ends to ML pipelines.
+</p>
+
+<div align="center">
+  <img src="assets/about-badges.svg" width="520" alt="he/him · B.E. AI &amp; DS · Full-Stack · Machine Learning" />
+</div>
+
+<div align="center">
+  <img src="assets/about-motto.svg" width="500" alt="Build simple. Make it work. Then scale." />
+</div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28"/> Featured Projects
+<div align="center">
+  <img src="assets/h-featured-projects.svg" width="280" alt="Featured Projects" />
+</div>
 
 <div align="center">
   <a href="https://github.com/Sarvan-12/ai-code-review-tool">
@@ -50,7 +46,9 @@ sarvan = {
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="28"/> Tech Stack
+<div align="center">
+  <img src="assets/h-tech-stack.svg" width="200" alt="Tech Stack" />
+</div>
 
 <div align="center">
 
@@ -174,7 +172,9 @@ sarvan = {
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="28"/> GitHub Stats
+<div align="center">
+  <img src="assets/h-github-stats.svg" width="220" alt="GitHub Stats" />
+</div>
 
 <div align="center">
 
@@ -204,7 +204,9 @@ sarvan = {
 ---
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" width="28"/> Let's Connect
+<div align="center">
+  <img src="assets/h-lets-connect.svg" width="240" alt="Let's Connect" />
+</div>
 
 <div align="center">
 
@@ -222,7 +224,9 @@ sarvan = {
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" width="28"/> Random Dev Quote
+<div align="center">
+  <img src="assets/h-random-dev-quote.svg" width="280" alt="Random Dev Quote" />
+</div>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
@@ -230,7 +234,9 @@ sarvan = {
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Chess%20Pawn.png" width="28"/> Chess
+<div align="center">
+  <img src="assets/h-chess.svg" width="200" alt="Chess" />
+</div>
 > I play chess regularly and enjoy competitive games  
 > Open for challenges — let’s play
 
