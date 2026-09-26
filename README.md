@@ -63,18 +63,18 @@
     <!-- Column 1: GitFut Card -->
     <td valign="top" align="center">
       <a href="https://gitfut.com/Sarvan-12">
-        <img src="https://gitfut.com/Sarvan-12.png?country=IN" height="358" alt="GitFut Card"/>
+        <img src="assets/gitfut-card.svg" height="358" alt="GitFut Card"/>
       </a>
     </td>
     <!-- Column 2: Stats & Streaks -->
     <td valign="top" align="center">
-      <img src="https://github-readme-stats-sable-kappa-18.vercel.app/api?username=Sarvan-12&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=58a6ff&title_color=D7F753&text_color=f0f3f6" height="175" alt="GitHub Stats"/><br/>
-      <img src="https://streak-stats.vercel.app?user=Sarvan-12&theme=transparent&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&sideNums=f0f3f6&currStreakNum=f0f3f6" height="175" alt="Streak Stats"/>
+      <img src="https://github-readme-stats-sable-kappa-18.vercel.app/api?username=Sarvan-12&theme=transparent&hide_border=false&border_color=D4A441&border_radius=8&include_all_commits=true&count_private=true&show_icons=true&icon_color=58a6ff&title_color=D4A441&ring_color=D4A441&text_color=f0f3f6" height="175" alt="GitHub Stats"/><br/>
+      <img src="https://streak-stats.vercel.app?user=Sarvan-12&theme=transparent&hide_border=false&border=D4A441&border_radius=8&background=00000000&ring=D4A441&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&sideNums=f0f3f6&currStreakNum=D4A441" height="175" alt="Streak Stats"/>
     </td>
     <!-- Column 3: Languages & GIF -->
     <td valign="top" align="center">
-      <img src="https://github-readme-stats-sable-kappa-18.vercel.app/api/top-langs?username=Sarvan-12&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=D7F753&text_color=f0f3f6" height="175" alt="Top Languages"/><br/>
-      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" height="175" alt="Coding GIF"/>
+      <img src="https://github-readme-stats-sable-kappa-18.vercel.app/api/top-langs?username=Sarvan-12&theme=transparent&hide_border=false&border_color=D4A441&border_radius=8&include_all_commits=true&count_private=true&layout=compact&title_color=D4A441&text_color=f0f3f6" height="175" alt="Top Languages"/><br/>
+      <img src="assets/coding-gif.svg" height="175" alt="Coding GIF"/>
     </td>
   </tr>
 </table>
