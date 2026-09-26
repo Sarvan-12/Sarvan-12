@@ -91,13 +91,13 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/sarvan12/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="assets/badge-linkedin.svg" alt="LinkedIn"/>
 </a>
 <a href="mailto:sharvansuvarna12@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="assets/badge-email.svg" alt="Email"/>
 </a>
 <a href="https://instagram.com/yan_sarvan">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  <img src="assets/badge-instagram.svg" alt="Instagram"/>
 </a>
 
 </div>
