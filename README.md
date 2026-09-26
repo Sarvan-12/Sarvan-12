@@ -5,11 +5,11 @@
   </a>
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 
 <div align="center">
-  <img src="assets/h-about-me.svg" width="200" alt="About Me" />
+  <img src="assets/h-about-me.svg" width="600" alt="About Me" />
 </div>
 
 <p align="center">
@@ -24,10 +24,10 @@
   <img src="assets/about-motto.svg" width="500" alt="Build simple. Make it work. Then scale." />
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
-  <img src="assets/h-featured-projects.svg" width="280" alt="Featured Projects" />
+  <img src="assets/h-featured-projects.svg" width="600" alt="Featured Projects" />
 </div>
 
 <div align="center">
@@ -38,10 +38,10 @@
   <a href="https://github.com/Sarvan-12?tab=repositories"><img src="assets/card-view-all.svg" width="420" alt="View all repos" /></a>
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
-  <img src="assets/h-tech-stack.svg" width="200" alt="Tech Stack" />
+  <img src="assets/h-tech-stack.svg" width="600" alt="Tech Stack" />
 </div>
 
 <div align="center">
@@ -50,10 +50,10 @@
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
-  <img src="assets/h-github-stats.svg" width="220" alt="GitHub Stats" />
+  <img src="assets/h-github-stats.svg" width="600" alt="GitHub Stats" />
 </div>
 
 <div align="center">
@@ -81,21 +81,21 @@
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
-  <img src="assets/h-contribution-graph.svg" width="300" alt="Contribution Graph" />
+  <img src="assets/h-contribution-graph.svg" width="600" alt="Contribution Graph" />
 </div>
 
 <div align="center">
   <img src="assets/contribution-graph.svg" width="800" alt="Contribution Graph" />
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 
 <div align="center">
-  <img src="assets/h-lets-connect.svg" width="240" alt="Let's Connect" />
+  <img src="assets/h-lets-connect.svg" width="600" alt="Let's Connect" />
 </div>
 
 <div align="center">
@@ -112,20 +112,20 @@
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
-  <img src="assets/h-random-dev-quote.svg" width="280" alt="Random Dev Quote" />
+  <img src="assets/h-random-dev-quote.svg" width="600" alt="Random Dev Quote" />
 </div>
 
 <div align="center">
   <img src="assets/quote-bar.svg" width="3" height="150" align="top" alt="" /><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
-  <img src="assets/h-chess.svg" width="200" alt="Chess" />
+  <img src="assets/h-chess.svg" width="600" alt="Chess" />
 </div>
 
 <div align="center">
@@ -140,6 +140,6 @@
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <img src="assets/footer.svg" width="100%" alt="Thanks for visiting" />

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 48" width="1000" height="48">
+  <defs>
+    <linearGradient id="ln" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#D4A441" stop-opacity="0"/><stop offset="0.25" stop-color="#D4A441" stop-opacity="0.7"/><stop offset="0.5" stop-color="#F8EBC4"/><stop offset="0.75" stop-color="#D4A441" stop-opacity="0.7"/><stop offset="1" stop-color="#D4A441" stop-opacity="0"/></linearGradient>
+    <radialGradient id="au" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#D4A441" stop-opacity="0.28"/><stop offset="0.6" stop-color="#8a6a1f" stop-opacity="0.08"/><stop offset="1" stop-color="#D4A441" stop-opacity="0"/></radialGradient>
+    <radialGradient id="au2" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#6b7f2a" stop-opacity="0.3"/><stop offset="1" stop-color="#6b7f2a" stop-opacity="0"/></radialGradient>
+    <radialGradient id="tr" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#FFF6D6" stop-opacity="1"/><stop offset="0.4" stop-color="#D4A441" stop-opacity="0.6"/><stop offset="1" stop-color="#D4A441" stop-opacity="0"/></radialGradient>
+    <filter id="bl" x="-10%" y="-200%" width="120%" height="500%"><feGaussianBlur stdDeviation="2.5"/></filter>
+  </defs>
+  <ellipse cx="500" cy="24" rx="420" ry="20" fill="url(#au2)"><animate attributeName="rx" values="380;460;380" dur="9s" repeatCount="indefinite"/></ellipse>
+  <ellipse cx="500" cy="24" rx="300" ry="14" fill="url(#au)"><animate attributeName="opacity" values="0.6;1;0.6" dur="5s" repeatCount="indefinite"/></ellipse>
+  <circle cx="70" cy="12" r="1.4" fill="#F5E6B8" opacity="0"><animate attributeName="opacity" values="0;0.95;0" dur="3.2s" begin="0s" repeatCount="indefinite"/></circle><circle cx="150" cy="36" r="1.8" fill="#F5E6B8" opacity="0"><animate attributeName="opacity" values="0;0.95;0" dur="2.8s" begin="1.1s" repeatCount="indefinite"/></circle><circle cx="240" cy="10" r="1.2" fill="#F5E6B8" opacity="0"><animate attributeName="opacity" values="0;0.95;0" dur="3.6s" begin="2.2s" repeatCount="indefinite"/></circle><circle cx="330" cy="38" r="1.5" fill="#F5E6B8" opacity="0"><animate attributeName="opacity" values="0;0.95;0" dur="3s" begin="0.6s" repeatCount="indefinite"/></circle><circle cx="420" cy="13" r="1.3" fill="#F5E6B8" opacity="0"><animate attributeName="opacity" values="0;0.95;0" dur="3.4s" begin="1.7s" repeatCount="indefinite"/></circle><circle cx="580" cy="36" r="1.4" fill="#F5E6B8" opacity="0"><animate attributeName="opacity" values="0;0.95;0" dur="2.9s" begin="0.3s" repeatCount="indefinite"/></circle><circle cx="670" cy="11" r="1.7" fill="#F5E6B8" opacity="0"><animate attributeName="opacity" values="0;0.95;0" dur="3.5s" begin="2.5s" repeatCount="indefinite"/></circle><circle cx="760" cy="37" r="1.3" fill="#F5E6B8" opacity="0"><animate attributeName="opacity" values="0;0.95;0" dur="3.1s" begin="1.4s" repeatCount="indefinite"/></circle><circle cx="850" cy="12" r="1.6" fill="#F5E6B8" opacity="0"><animate attributeName="opacity" values="0;0.95;0" dur="2.7s" begin="0.9s" repeatCount="indefinite"/></circle><circle cx="930" cy="35" r="1.4" fill="#F5E6B8" opacity="0"><animate attributeName="opacity" values="0;0.95;0" dur="3.3s" begin="2s" repeatCount="indefinite"/></circle>
+  <rect x="40" y="22" width="920" height="4" fill="url(#ln)" opacity="0.5" filter="url(#bl)"/>
+  <rect x="40" y="23.25" width="920" height="1.5" fill="url(#ln)"/>
+  <ellipse cx="0" cy="24" rx="38" ry="5" fill="url(#tr)"><animate attributeName="cx" values="-40;1040;1040" keyTimes="0;0.7;1" dur="8s" repeatCount="indefinite"/></ellipse>
+  <g transform="translate(500 24)">
+    <rect x="-9" y="-9" width="18" height="18" transform="rotate(45)" fill="#D4A441" opacity="0.35" filter="url(#bl)"><animate attributeName="opacity" values="0.2;0.6;0.2" dur="3.5s" repeatCount="indefinite"/></rect>
+    <rect x="-5" y="-5" width="10" height="10" transform="rotate(45)" fill="#0d1117" stroke="#F8EBC4" stroke-width="1.5"/>
+    <rect x="-1.8" y="-1.8" width="3.6" height="3.6" transform="rotate(45)" fill="#D4A441"/>
+  </g>
+</svg>
