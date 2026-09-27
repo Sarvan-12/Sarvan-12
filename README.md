@@ -1,4 +1,3 @@
-
 <div align="center">
   <a href="https://sarvan.me" target="_blank">
     <img src="assets/header.svg" width="100%" alt="Sarvan D Suvarna — Portfolio" />
@@ -6,7 +5,6 @@
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
-
 
 <div align="center">
   <img src="assets/h-about-me.svg" width="600" alt="About Me" />
@@ -92,7 +90,6 @@
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
-
 
 <div align="center">
   <img src="assets/h-lets-connect.svg" width="600" alt="Let's Connect" />
