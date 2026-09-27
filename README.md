@@ -7,19 +7,7 @@
 <img src="assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
-  <img src="assets/h-about-me.svg" width="600" alt="About Me" />
-</div>
-
-<p align="center">
-  Comfortable across the stack, from React front-ends to ML pipelines.
-</p>
-
-<div align="center">
-  <img src="assets/about-badges.svg" width="520" alt="he/him · B.E. AI &amp; DS · Full-Stack · Machine Learning" />
-</div>
-
-<div align="center">
-  <img src="assets/about-motto.svg" width="500" alt="Build simple. Make it work. Then scale." />
+  <img src="assets/about-section.svg" width="100%" alt="About Me. Comfortable across the stack, from React front-ends to ML pipelines. he/him · B.E. AI &amp; DS · Full-Stack · Machine Learning. Build simple. Make it work. Then scale." />
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
