@@ -116,7 +116,7 @@
 </div>
 
 <div align="center">
-  <img src="assets/quote-bar.svg" width="3" height="150" align="top" alt="" /><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+  <img src="assets/quote-card.svg" width="600" alt="Random dev quote" />
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
@@ -126,15 +126,9 @@
 </div>
 
 <div align="center">
-  <img src="assets/chess-note.svg" width="420" alt="I play chess regularly and enjoy competitive games. Open for challenges — let’s play" />
-</div>
-
-<div align="center">
-
-<a href="https://www.chess.com/member/yan_sarvan">
-  <img src="assets/badge-chess.svg" alt="Chess.com"/>
-</a>
-
+  <a href="https://www.chess.com/member/yan_sarvan">
+    <img src="assets/chess-card.svg" width="600" alt="I play chess regularly and enjoy competitive games. Open for challenges — let’s play. Play on Chess.com" />
+  </a>
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
