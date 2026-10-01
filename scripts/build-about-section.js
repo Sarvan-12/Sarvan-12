@@ -65,7 +65,7 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 ${H}" wid
   <clipPath id="prbox"><rect x="${PX}" y="${PY}" width="${PW}" height="${PH}"/></clipPath>
   <linearGradient id="prshine" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#FFF6D6" stop-opacity="0.55"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
   <radialGradient id="praur1" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#D4A441" stop-opacity="0.32"/><stop offset="0.6" stop-color="#8a6a1f" stop-opacity="0.1"/><stop offset="1" stop-color="#D4A441" stop-opacity="0"/></radialGradient>
-  <radialGradient id="praur2" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#7a9130" stop-opacity="0.3"/><stop offset="1" stop-color="#7a9130" stop-opacity="0"/></radialGradient>
+  <radialGradient id="praur2" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#2A6B5C" stop-opacity="0.3"/><stop offset="1" stop-color="#2A6B5C" stop-opacity="0"/></radialGradient>
   <pattern id="prlines" width="4" height="3" patternUnits="userSpaceOnUse"><rect width="4" height="1" y="1" fill="#000" fill-opacity="0.4"/></pattern>
 </defs>
 <g clip-path="url(#prall)">

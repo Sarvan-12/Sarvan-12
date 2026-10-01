@@ -4,7 +4,7 @@
     <linearGradient id="goldh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#9C7420"/><stop offset="0.5" stop-color="#F8EBC4"/><stop offset="1" stop-color="#9C7420"/></linearGradient>
     <linearGradient id="sstar" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#FFF6D6"/></linearGradient>
     <radialGradient id="aur1" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#D4A441" stop-opacity="0.34"/><stop offset="0.6" stop-color="#8a6a1f" stop-opacity="0.1"/><stop offset="1" stop-color="#D4A441" stop-opacity="0"/></radialGradient>
-    <radialGradient id="aur2" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#7a9130" stop-opacity="0.4"/><stop offset="1" stop-color="#7a9130" stop-opacity="0"/></radialGradient>
+    <radialGradient id="aur2" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#2A6B5C" stop-opacity="0.4"/><stop offset="1" stop-color="#2A6B5C" stop-opacity="0"/></radialGradient>
     <radialGradient id="aur3" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#B5652A" stop-opacity="0.26"/><stop offset="1" stop-color="#B5652A" stop-opacity="0"/></radialGradient>
     <radialGradient id="vig" cx="0.5" cy="0.5" r="0.75"><stop offset="0.55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity="0.55"/></radialGradient>
     <filter id="blur6" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="6"/></filter>
@@ -79,7 +79,7 @@
   <!-- flanking rules + subtitle -->
   <rect x="150" y="181" width="180" height="1" fill="url(#fl)"/><rect x="670" y="181" width="180" height="1" fill="url(#fr2)"/>
   <text x="500" y="190" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" letter-spacing="3" fill="#000" opacity="0.5" dy="1.5">AI &amp; DS ENGINEER · FULL STACK · ML</text>
-  <text x="500" y="190" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" letter-spacing="3" fill="#D8C9A7">AI &amp; DS ENGINEER · FULL STACK · ML</text>
+  <text x="500" y="190" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" letter-spacing="3" fill="#E8DCC4">AI &amp; DS ENGINEER · FULL STACK · ML</text>
 
   <!-- portfolio badge -->
   <rect x="381" y="224" width="238" height="46" rx="6" fill="#D4A441" opacity="0.3" filter="url(#blur6)"><animate attributeName="opacity" values="0.15;0.45;0.15" dur="4s" repeatCount="indefinite"/></rect>

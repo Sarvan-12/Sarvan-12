@@ -17,7 +17,7 @@
 
   <circle cx="60" cy="34" r="4" fill="#D4A441"/>
   <text x="72" y="39" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="0.5" fill="#D4A441">CONTRIBUTION ACTIVITY</text>
-  <text x="770" y="39" text-anchor="end" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12" fill="#D8C9A7">Last 30 days · Aug 31 – Sep 30 · 140 total</text>
+  <text x="770" y="39" text-anchor="end" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12" fill="#E8DCC4">Last 30 days · Aug 31 – Sep 30 · 140 total</text>
 
   <g font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11" fill="#9198a1"><line x1="56" x2="770" y1="256" y2="256" stroke="#4a3f1e" stroke-width="1" /><line x1="56" x2="770" y1="196.66666666666669" y2="196.66666666666669" stroke="#4a3f1e" stroke-width="1" stroke-dasharray="3 5" opacity="0.6"/><line x1="56" x2="770" y1="137.33333333333334" y2="137.33333333333334" stroke="#4a3f1e" stroke-width="1" stroke-dasharray="3 5" opacity="0.6"/><line x1="56" x2="770" y1="78" y2="78" stroke="#4a3f1e" stroke-width="1" stroke-dasharray="3 5" opacity="0.6"/><text x="44" y="260" text-anchor="end">0</text><text x="44" y="200.66666666666669" text-anchor="end">5</text><text x="44" y="141.33333333333334" text-anchor="end">10</text><text x="44" y="82" text-anchor="end">15</text><text x="56.0" y="278" text-anchor="middle">Aug 31</text><text x="175.0" y="278" text-anchor="middle">Sep 5</text><text x="294.0" y="278" text-anchor="middle">Sep 10</text><text x="413.0" y="278" text-anchor="middle">Sep 15</text><text x="532.0" y="278" text-anchor="middle">Sep 20</text><text x="651.0" y="278" text-anchor="middle">Sep 25</text><text x="770.0" y="278" text-anchor="middle">Sep 30</text></g>
   <g clip-path="url(#reveal)">
@@ -28,7 +28,7 @@
   <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="5s" dur="0.8s" fill="freeze"/>
     <line x1="698.6" x2="698.6" y1="70.0" y2="62.0" stroke="#D4A441" stroke-width="1.5"/>
     <rect x="629.2" y="40.0" width="138.8" height="22" rx="11" fill="#D4A441"/>
-    <text x="698.6" y="55.0" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11" font-weight="700" fill="#1E2412">Peak · 15 · Sep 27</text></g>
+    <text x="698.6" y="55.0" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11" font-weight="700" fill="#123F36">Peak · 15 · Sep 27</text></g>
   <circle cx="770.0" cy="256.0" r="5" fill="none" stroke="#D4A441" stroke-width="2" opacity="0">
     <animate attributeName="r" values="5;14" dur="3.2s" begin="5s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.8;0" dur="3.2s" begin="5s" repeatCount="indefinite"/></circle>

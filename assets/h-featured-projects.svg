@@ -4,7 +4,7 @@
     <linearGradient id="fl" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#D4A441" stop-opacity="0"/><stop offset="1" stop-color="#D4A441" stop-opacity="0.85"/></linearGradient>
     <linearGradient id="fr" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#D4A441" stop-opacity="0.85"/><stop offset="1" stop-color="#D4A441" stop-opacity="0"/></linearGradient>
     <radialGradient id="au" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#D4A441" stop-opacity="0.26"/><stop offset="0.6" stop-color="#8a6a1f" stop-opacity="0.07"/><stop offset="1" stop-color="#D4A441" stop-opacity="0"/></radialGradient>
-    <radialGradient id="au2" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#6b7f2a" stop-opacity="0.32"/><stop offset="1" stop-color="#6b7f2a" stop-opacity="0"/></radialGradient>
+    <radialGradient id="au2" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#2A6B5C" stop-opacity="0.32"/><stop offset="1" stop-color="#2A6B5C" stop-opacity="0"/></radialGradient>
     <linearGradient id="gr" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#D4A441" stop-opacity="0"/><stop offset="1" stop-color="#D4A441" stop-opacity="0.22"/></linearGradient>
     <filter id="ulg" x="-30%" y="-80%" width="160%" height="260%"><feGaussianBlur stdDeviation="2"/></filter>
     <clipPath id="fc"><rect y="66" width="600" height="34"/></clipPath>

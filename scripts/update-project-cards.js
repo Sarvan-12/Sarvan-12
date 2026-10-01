@@ -45,13 +45,13 @@ function card({ repo, lines, lang, stars, forks }, i) {
   const lw = Math.round(24 + lang.length * 6.5 + 12);
   const sw = sweep({ id: 'c', w: 420, h: 160, rx: 10, delay: i * 2, dur: 10, band: 60, op: 0.16 });
   let x = 20, pills = '';
-  pills += `<rect x="${x}" y="112" width="${lw}" height="26" rx="13" fill="url(#pd)" stroke="#D4A441" stroke-opacity="0.25"/><circle cx="${x + 13}" cy="125" r="8" fill="${lc}" opacity="0.35" filter="url(#dg)"/><circle cx="${x + 13}" cy="125" r="4.5" fill="${lc}"/><circle cx="${x + 11.6}" cy="123.6" r="1.4" fill="#fff" opacity="0.7"/><text x="${x + 24}" y="129" fill="#D8C9A7">${lang}</text>`;
+  pills += `<rect x="${x}" y="112" width="${lw}" height="26" rx="13" fill="url(#pd)" stroke="#D4A441" stroke-opacity="0.25"/><circle cx="${x + 13}" cy="125" r="8" fill="${lc}" opacity="0.35" filter="url(#dg)"/><circle cx="${x + 13}" cy="125" r="4.5" fill="${lc}"/><circle cx="${x + 11.6}" cy="123.6" r="1.4" fill="#fff" opacity="0.7"/><text x="${x + 24}" y="129" fill="#E8DCC4">${lang}</text>`;
   x += lw + 10;
   const starW = 56;
-  pills += `<rect x="${x}" y="112" width="${starW}" height="26" rx="13" fill="url(#gold)"/><rect x="${x + 1}" y="112.5" width="${starW - 2}" height="12" rx="6" fill="url(#gloss)"/><rect x="${x + 0.5}" y="112.5" width="${starW - 1}" height="25" rx="12.5" fill="none" stroke="#FFF1C4" stroke-opacity="0.6"/><text x="${x + starW / 2}" y="129" text-anchor="middle" font-weight="700" fill="#1E2412">★ ${stars}</text>`;
+  pills += `<rect x="${x}" y="112" width="${starW}" height="26" rx="13" fill="url(#gold)"/><rect x="${x + 1}" y="112.5" width="${starW - 2}" height="12" rx="6" fill="url(#gloss)"/><rect x="${x + 0.5}" y="112.5" width="${starW - 1}" height="25" rx="12.5" fill="none" stroke="#FFF1C4" stroke-opacity="0.6"/><text x="${x + starW / 2}" y="129" text-anchor="middle" font-weight="700" fill="#123F36">★ ${stars}</text>`;
   if (forks > 0) {
     x += starW + 10;
-    pills += `<rect x="${x}" y="112" width="54" height="26" rx="13" fill="url(#pd)" stroke="#D4A441" stroke-opacity="0.25"/><g fill="none" stroke="#D8C9A7" stroke-width="1.4" transform="translate(${x + 12},118)"><circle cx="3" cy="2.5" r="1.8"/><circle cx="11" cy="2.5" r="1.8"/><circle cx="7" cy="11.5" r="1.8"/><path d="M3 4.3 V6 Q3 7.5 5 7.5 H9 Q11 7.5 11 6 V4.3 M7 7.5 V9.7"/></g><text x="${x + 32}" y="129" fill="#D8C9A7">${forks}</text>`;
+    pills += `<rect x="${x}" y="112" width="54" height="26" rx="13" fill="url(#pd)" stroke="#D4A441" stroke-opacity="0.25"/><g fill="none" stroke="#E8DCC4" stroke-width="1.4" transform="translate(${x + 12},118)"><circle cx="3" cy="2.5" r="1.8"/><circle cx="11" cy="2.5" r="1.8"/><circle cx="7" cy="11.5" r="1.8"/><path d="M3 4.3 V6 Q3 7.5 5 7.5 H9 Q11 7.5 11 6 V4.3 M7 7.5 V9.7"/></g><text x="${x + 32}" y="129" fill="#E8DCC4">${forks}</text>`;
   }
   const desc = lines.map((l, k) => `<text x="20" y="${66 + k * 20}">${l}</text>`).join('');
   return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 160" width="420" height="160">

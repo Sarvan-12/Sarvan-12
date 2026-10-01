@@ -71,7 +71,7 @@ function build(all) {
   const peak = `<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="5s" dur="0.8s" fill="freeze"/>
     <line x1="${px.toFixed(1)}" x2="${px.toFixed(1)}" y1="${(py - 8).toFixed(1)}" y2="${(py - 16).toFixed(1)}" stroke="#D4A441" stroke-width="1.5"/>
     <rect x="${lx.toFixed(1)}" y="${(py - 38).toFixed(1)}" width="${lw.toFixed(1)}" height="22" rx="11" fill="#D4A441"/>
-    <text x="${(lx + lw / 2).toFixed(1)}" y="${(py - 23).toFixed(1)}" text-anchor="middle" font-family="${FONT}" font-size="11" font-weight="700" fill="#1E2412">${label}</text></g>`;
+    <text x="${(lx + lw / 2).toFixed(1)}" y="${(py - 23).toFixed(1)}" text-anchor="middle" font-family="${FONT}" font-size="11" font-weight="700" fill="#123F36">${label}</text></g>`;
 
   const [lxp, lyp] = P[P.length - 1];
   const pulse = `<circle cx="${lxp.toFixed(1)}" cy="${lyp.toFixed(1)}" r="5" fill="none" stroke="#D4A441" stroke-width="2" opacity="0">
@@ -101,7 +101,7 @@ function build(all) {
 
   <circle cx="${L + 4}" cy="34" r="4" fill="#D4A441"/>
   <text x="${L + 16}" y="39" font-family="${FONT}" font-size="15" font-weight="700" letter-spacing="0.5" fill="#D4A441">CONTRIBUTION ACTIVITY</text>
-  <text x="${W - R}" y="39" text-anchor="end" font-family="${FONT}" font-size="12" fill="#D8C9A7">Last 30 days · ${fmt(days[0].date)} – ${fmt(days[days.length - 1].date)} · ${total} total</text>
+  <text x="${W - R}" y="39" text-anchor="end" font-family="${FONT}" font-size="12" fill="#E8DCC4">Last 30 days · ${fmt(days[0].date)} – ${fmt(days[days.length - 1].date)} · ${total} total</text>
 
   <g font-family="${FONT}" font-size="11" fill="#9198a1">${grid}${ylab}${xlab}</g>
   <g clip-path="url(#reveal)">

@@ -7,7 +7,7 @@
   <clipPath id="prbox"><rect x="680" y="96" width="200" height="250"/></clipPath>
   <linearGradient id="prshine" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#FFF6D6" stop-opacity="0.55"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
   <radialGradient id="praur1" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#D4A441" stop-opacity="0.32"/><stop offset="0.6" stop-color="#8a6a1f" stop-opacity="0.1"/><stop offset="1" stop-color="#D4A441" stop-opacity="0"/></radialGradient>
-  <radialGradient id="praur2" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#7a9130" stop-opacity="0.3"/><stop offset="1" stop-color="#7a9130" stop-opacity="0"/></radialGradient>
+  <radialGradient id="praur2" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#2A6B5C" stop-opacity="0.3"/><stop offset="1" stop-color="#2A6B5C" stop-opacity="0"/></radialGradient>
   <pattern id="prlines" width="4" height="3" patternUnits="userSpaceOnUse"><rect width="4" height="1" y="1" fill="#000" fill-opacity="0.4"/></pattern>
 </defs>
 <g clip-path="url(#prall)">
@@ -21,7 +21,7 @@
     <linearGradient id="h-fl" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#D4A441" stop-opacity="0"/><stop offset="1" stop-color="#D4A441" stop-opacity="0.85"/></linearGradient>
     <linearGradient id="h-fr" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#D4A441" stop-opacity="0.85"/><stop offset="1" stop-color="#D4A441" stop-opacity="0"/></linearGradient>
     <radialGradient id="h-au" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#D4A441" stop-opacity="0.26"/><stop offset="0.6" stop-color="#8a6a1f" stop-opacity="0.07"/><stop offset="1" stop-color="#D4A441" stop-opacity="0"/></radialGradient>
-    <radialGradient id="h-au2" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#6b7f2a" stop-opacity="0.32"/><stop offset="1" stop-color="#6b7f2a" stop-opacity="0"/></radialGradient>
+    <radialGradient id="h-au2" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#2A6B5C" stop-opacity="0.32"/><stop offset="1" stop-color="#2A6B5C" stop-opacity="0"/></radialGradient>
     <linearGradient id="h-gr" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#D4A441" stop-opacity="0"/><stop offset="1" stop-color="#D4A441" stop-opacity="0.22"/></linearGradient>
     <filter id="h-ulg" x="-30%" y="-80%" width="160%" height="260%"><feGaussianBlur stdDeviation="2"/></filter>
     <clipPath id="h-fc"><rect y="66" width="600" height="34"/></clipPath>
