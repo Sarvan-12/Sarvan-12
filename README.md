@@ -17,11 +17,11 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/Sarvan-12/ai-code-review-tool"><img src="assets/card-ai-code-review-tool.svg" width="420" alt="ai-code-review-tool" /></a>
-  <a href="https://github.com/Sarvan-12/land-use-land-cover-using-U-net"><img src="assets/card-land-use-land-cover.svg" width="420" alt="land-use-land-cover-using-U-net" /></a>
+  <a href="https://github.com/Sarvan-12/ai-code-review-tool"><img src="assets/card-ai-code-review-tool.svg" width="48%" alt="ai-code-review-tool" /></a>
+  <a href="https://github.com/Sarvan-12/land-use-land-cover-using-U-net"><img src="assets/card-land-use-land-cover.svg" width="48%" alt="land-use-land-cover-using-U-net" /></a>
   <br />
-  <a href="https://github.com/Sarvan-12/time-capsule"><img src="assets/card-time-capsule.svg" width="420" alt="time-capsule" /></a>
-  <a href="https://github.com/Sarvan-12?tab=repositories"><img src="assets/card-view-all.svg" width="420" alt="View all repos" /></a>
+  <a href="https://github.com/Sarvan-12/time-capsule"><img src="assets/card-time-capsule.svg" width="48%" alt="time-capsule" /></a>
+  <a href="https://github.com/Sarvan-12?tab=repositories"><img src="assets/card-view-all.svg" width="48%" alt="View all repos" /></a>
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
@@ -32,7 +32,7 @@
 
 <div align="center">
 
-<img src="assets/tech-stack.svg" width="804" alt="Tech stack: HTML, CSS, JavaScript, TypeScript, Python, Java, C, C++, React, Next.js, Tailwind, Flutter, Node.js, Express.js, FastAPI, VS Code, MongoDB, PostgreSQL, MySQL, Docker, Git, GitHub, Linux, Postman, TensorFlow, PyTorch, Pandas, NumPy, Hugging Face, Firebase, Vercel, Netlify" />
+<img src="assets/tech-stack.svg" width="100%" alt="Tech stack: HTML, CSS, JavaScript, TypeScript, Python, Java, C, C++, React, Next.js, Tailwind, Flutter, Node.js, Express.js, FastAPI, VS Code, MongoDB, PostgreSQL, MySQL, Docker, Git, GitHub, Linux, Postman, TensorFlow, PyTorch, Pandas, NumPy, Hugging Face, Firebase, Vercel, Netlify" />
 
 </div>
 
@@ -46,21 +46,18 @@
 
 <table>
   <tr>
-    <!-- Column 1: GitFut Card -->
-    <td valign="top" align="center">
+    <td valign="top" align="center" width="24%">
       <a href="https://gitfut.com/Sarvan-12">
-        <img src="assets/gitfut-card.svg" width="236" alt="GitFut Card"/>
+        <img src="assets/gitfut-card.svg" width="100%" alt="GitFut player card for Sarvan-12"/>
       </a>
     </td>
-    <!-- Column 2: Stats & Streaks -->
-    <td valign="top" align="center">
-      <img src="https://github-readme-stats-sable-kappa-18.vercel.app/api?username=Sarvan-12&theme=transparent&hide_border=false&border_color=D4A441&border_radius=8&include_all_commits=true&count_private=true&show_icons=true&icon_color=58a6ff&title_color=D4A441&ring_color=D4A441&text_color=f0f3f6" width="419" alt="GitHub Stats"/><br/>
-      <img src="https://streak-stats.vercel.app?user=Sarvan-12&theme=transparent&hide_border=false&border=D4A441&border_radius=8&background=00000000&ring=D4A441&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&sideNums=f0f3f6&currStreakNum=D4A441&v=20260927" width="444" alt="Streak Stats"/>
+    <td valign="top" align="center" width="40%">
+      <img src="https://github-readme-stats-sable-kappa-18.vercel.app/api?username=Sarvan-12&theme=transparent&hide_border=false&border_color=D4A441&border_radius=8&include_all_commits=true&count_private=true&show_icons=true&icon_color=58a6ff&title_color=D4A441&ring_color=D4A441&text_color=f0f3f6" width="100%" alt="GitHub stats: commits, PRs, issues, stars"/><br/>
+      <img src="https://streak-stats.vercel.app?user=Sarvan-12&theme=transparent&hide_border=false&border=D4A441&border_radius=8&background=00000000&ring=D4A441&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&sideNums=f0f3f6&currStreakNum=D4A441" width="100%" alt="GitHub contribution streak"/>
     </td>
-    <!-- Column 3: Languages & GIF -->
-    <td valign="top" align="center">
-      <img src="https://github-readme-stats-sable-kappa-18.vercel.app/api/top-langs?username=Sarvan-12&theme=transparent&hide_border=false&border_color=D4A441&border_radius=8&include_all_commits=true&count_private=true&layout=compact&title_color=D4A441&text_color=f0f3f6" width="318" alt="Top Languages"/><br/>
-      <img src="assets/coding-gif.svg" width="311" alt="Coding GIF"/>
+    <td valign="top" align="center" width="36%">
+      <img src="https://github-readme-stats-sable-kappa-18.vercel.app/api/top-langs?username=Sarvan-12&theme=transparent&hide_border=false&border_color=D4A441&border_radius=8&include_all_commits=true&count_private=true&layout=compact&title_color=D4A441&text_color=f0f3f6" width="100%" alt="Top Languages"/><br/>
+      <img src="assets/coding-gif.svg" width="100%" alt="Animated coding illustration"/>
     </td>
   </tr>
 </table>
@@ -74,7 +71,7 @@
 </div>
 
 <div align="center">
-  <img src="assets/contribution-graph.svg" width="800" alt="Contribution Graph" />
+  <img src="assets/contribution-graph.svg" width="100%" alt="GitHub contribution graph for Sarvan-12" />
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
