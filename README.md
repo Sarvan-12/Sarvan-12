@@ -17,28 +17,11 @@
 </div>
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://codecook.sarvan.me/"><img src="assets/card-ai-code-review-tool.svg" width="380" alt="ai-code-review-tool: AI-powered code reviews with the Groq API. MongoDB, Express, React, Node.js, Groq" /></a><br />
-      <a href="https://codecook.sarvan.me/"><b>Live Demo ↗</b></a> &nbsp;·&nbsp; <a href="https://github.com/Sarvan-12/ai-code-review-tool">Source</a>
-    </td>
-    <td align="center">
-      <a href="https://land-use-land-cover-using-u-net.onrender.com/"><img src="assets/card-land-use-land-cover.svg" width="380" alt="land-use-land-cover-using-U-net: land use and land cover classification on satellite imagery. Python, U-Net, Deep Learning" /></a><br />
-      <a href="https://land-use-land-cover-using-u-net.onrender.com/"><b>Live Demo ↗</b></a> &nbsp;·&nbsp; <a href="https://github.com/Sarvan-12/land-use-land-cover-using-U-net">Source</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://unsent.sarvan.me/"><img src="assets/card-time-capsule.svg" width="380" alt="time-capsule: time-locked messages delivered at a future date. MongoDB, Express, React, Node.js" /></a><br />
-      <a href="https://unsent.sarvan.me/"><b>Live Demo ↗</b></a> &nbsp;·&nbsp; <a href="https://github.com/Sarvan-12/time-capsule">Source</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Sarvan-12?tab=repositories"><img src="assets/card-view-all.svg" width="380" alt="View all repos" /></a><br />
-      <a href="https://github.com/Sarvan-12?tab=repositories"><b>All Repositories ↗</b></a>
-    </td>
-  </tr>
-</table>
+  <a href="https://codecook.sarvan.me/"><img src="assets/card-ai-code-review-tool.svg" width="380" alt="ai-code-review-tool: AI-powered code reviews with the Groq API. MongoDB, Express, React, Node.js, Groq. Live demo" /></a>
+  <a href="https://land-use-land-cover-using-u-net.onrender.com/"><img src="assets/card-land-use-land-cover.svg" width="380" alt="land-use-land-cover-using-U-net: land use and land cover classification on satellite imagery. Python, U-Net, Deep Learning. Live demo" /></a>
+  <br />
+  <a href="https://unsent.sarvan.me/"><img src="assets/card-time-capsule.svg" width="380" alt="time-capsule: time-locked messages delivered at a future date. MongoDB, Express, React, Node.js. Live demo" /></a>
+  <a href="https://github.com/Sarvan-12?tab=repositories"><img src="assets/card-view-all.svg" width="380" alt="View all repos" /></a>
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
@@ -63,19 +46,17 @@
 
 <table>
   <tr>
-    <td valign="top" align="center" width="24%">
+    <td rowspan="2" valign="middle" align="center">
       <a href="https://gitfut.com/Sarvan-12">
-        <img src="assets/gitfut-card.svg" width="100%" alt="GitFut player card for Sarvan-12"/>
+        <img src="assets/gitfut-card.svg" width="224" alt="GitFut player card for Sarvan-12"/>
       </a>
     </td>
-    <td valign="top" align="center" width="40%">
-      <img src="https://github-readme-stats-sable-kappa-18.vercel.app/api?username=Sarvan-12&theme=transparent&hide_border=false&border_color=D4A441&border_radius=8&include_all_commits=true&count_private=true&show_icons=true&icon_color=58a6ff&title_color=D4A441&ring_color=D4A441&text_color=f0f3f6" width="100%" alt="GitHub stats: commits, PRs, issues, stars"/><br/>
-      <img src="https://streak-stats.vercel.app?user=Sarvan-12&theme=transparent&hide_border=false&border=D4A441&border_radius=8&background=00000000&ring=D4A441&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&sideNums=f0f3f6&currStreakNum=D4A441" width="100%" alt="GitHub contribution streak"/>
-    </td>
-    <td valign="top" align="center" width="36%">
-      <img src="https://github-readme-stats-sable-kappa-18.vercel.app/api/top-langs?username=Sarvan-12&theme=transparent&hide_border=false&border_color=D4A441&border_radius=8&include_all_commits=true&count_private=true&layout=compact&title_color=D4A441&text_color=f0f3f6" width="100%" alt="Top Languages"/><br/>
-      <img src="assets/coding-gif.svg" width="100%" alt="Animated coding illustration"/>
-    </td>
+    <td align="center"><img src="assets/stats-card.svg" width="256" alt="GitHub stats: contributions, stars, pull requests, issues, repositories and followers"/></td>
+    <td align="center"><img src="assets/langs-card.svg" width="256" alt="Top languages by code size"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/streak-card.svg" width="256" alt="Current streak, total contributions and longest streak"/></td>
+    <td align="center"><img src="assets/coding-gif.svg" width="256" alt="Animated coding illustration"/></td>
   </tr>
 </table>
 

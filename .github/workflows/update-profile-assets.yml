@@ -34,18 +34,24 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node scripts/update-project-cards.js
 
+      - name: Rebuild GitHub stats, languages and streak cards
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/update-github-stats.js
+
       - name: Rebuild assets/quote-card.svg (quote of the day)
         run: node scripts/update-quote.js
 
       - name: Commit if changed
         run: |
-          FILES="assets/contribution-graph.svg assets/gitfut-card.svg assets/card-ai-code-review-tool.svg assets/card-land-use-land-cover.svg assets/card-time-capsule.svg assets/quote-card.svg"
+          FILES="assets/contribution-graph.svg assets/gitfut-card.svg assets/card-ai-code-review-tool.svg assets/card-land-use-land-cover.svg assets/card-time-capsule.svg assets/quote-card.svg assets/stats-card.svg assets/langs-card.svg assets/streak-card.svg"
           if git diff --quiet -- $FILES; then
             echo "No changes"
           else
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add $FILES
-            git commit -m "chore: update contribution graph, GitFut card, project cards and quote"
+            git commit -m "chore: update contribution graph, GitFut card, project cards, stats and quote"
             git push
           fi
