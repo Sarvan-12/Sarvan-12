@@ -17,11 +17,28 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/Sarvan-12/ai-code-review-tool"><img src="assets/card-ai-code-review-tool.svg" width="48%" alt="ai-code-review-tool" /></a>
-  <a href="https://github.com/Sarvan-12/land-use-land-cover-using-U-net"><img src="assets/card-land-use-land-cover.svg" width="48%" alt="land-use-land-cover-using-U-net" /></a>
-  <br />
-  <a href="https://github.com/Sarvan-12/time-capsule"><img src="assets/card-time-capsule.svg" width="48%" alt="time-capsule" /></a>
-  <a href="https://github.com/Sarvan-12?tab=repositories"><img src="assets/card-view-all.svg" width="48%" alt="View all repos" /></a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://codecook.sarvan.me/"><img src="assets/card-ai-code-review-tool.svg" width="380" alt="ai-code-review-tool: AI-powered code reviews with the Groq API. MongoDB, Express, React, Node.js, Groq" /></a><br />
+      <a href="https://codecook.sarvan.me/"><b>Live Demo ↗</b></a> &nbsp;·&nbsp; <a href="https://github.com/Sarvan-12/ai-code-review-tool">Source</a>
+    </td>
+    <td align="center">
+      <a href="https://land-use-land-cover-using-u-net.onrender.com/"><img src="assets/card-land-use-land-cover.svg" width="380" alt="land-use-land-cover-using-U-net: land use and land cover classification on satellite imagery. Python, U-Net, Deep Learning" /></a><br />
+      <a href="https://land-use-land-cover-using-u-net.onrender.com/"><b>Live Demo ↗</b></a> &nbsp;·&nbsp; <a href="https://github.com/Sarvan-12/land-use-land-cover-using-U-net">Source</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://unsent.sarvan.me/"><img src="assets/card-time-capsule.svg" width="380" alt="time-capsule: time-locked messages delivered at a future date. MongoDB, Express, React, Node.js" /></a><br />
+      <a href="https://unsent.sarvan.me/"><b>Live Demo ↗</b></a> &nbsp;·&nbsp; <a href="https://github.com/Sarvan-12/time-capsule">Source</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Sarvan-12?tab=repositories"><img src="assets/card-view-all.svg" width="380" alt="View all repos" /></a><br />
+      <a href="https://github.com/Sarvan-12?tab=repositories"><b>All Repositories ↗</b></a>
+    </td>
+  </tr>
+</table>
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
