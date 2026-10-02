@@ -8,7 +8,7 @@ const USER = process.env.GH_USER || 'Sarvan-12';
 const ASSETS = path.join(__dirname, '..', 'assets');
 const FONT = "'Segoe UI','Helvetica Neue',Arial,sans-serif";
 const LANG_COLORS = { JavaScript: '#f1e05a', Python: '#3572A5', TypeScript: '#3178c6', Java: '#b07219', HTML: '#e34c26', CSS: '#563d7c', 'Jupyter Notebook': '#DA5B0B', C: '#9aa4ae', 'C++': '#f34b7d', Dart: '#00B4AB', Shell: '#89e051', SCSS: '#c6538c', Go: '#00ADD8' };
-const FALLBACK = ['#D4A441', '#2A6B5C', '#C49A45', '#8b949e', '#58a6ff', '#b5652a'];
+const FALLBACK = ['#D4A441', '#2A6B5C', '#C49A45', '#a8b3bf', '#58a6ff', '#b5652a'];
 
 const headers = { 'User-Agent': 'github-stats-updater', Accept: 'application/vnd.github+json' };
 if (process.env.GITHUB_TOKEN) headers.Authorization = `Bearer ${process.env.GITHUB_TOKEN}`;
@@ -73,7 +73,7 @@ const frame = (id, delay) => `<rect x="0.5" y="0.5" width="${W - 1}" height="${H
   <line x1="16" x2="${W - 16}" y1="2" y2="2" stroke="url(#hl${id})" stroke-width="1"/>
   <g clip-path="url(#sc${id})"><polygon points="30,0 80,0 50,${H} 0,${H}" fill="url(#sg${id})" transform="translate(-100 0)"><animateTransform attributeName="transform" type="translate" values="-100 0;${W + 60} 0;${W + 60} 0" keyTimes="0;0.4;1" dur="10s" begin="${delay}s" repeatCount="indefinite"/></polygon></g>`;
 const svgWrap = (inner) => `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" width="${W}" height="${H}">\n  <defs>${inner.defs}</defs>\n  ${inner.body}\n</svg>\n`;
-const title = (id, t, right) => `<text x="18" y="30" font-size="15" font-weight="700" fill="url(#gold${id})">${t}</text>${right ? `<text x="${W - 18}" y="30" font-size="10.5" text-anchor="end" fill="#8b949e">${right}</text>` : ''}<line x1="18" x2="${W - 18}" y1="40" y2="40" stroke="#D4A441" stroke-opacity="0.25"/>`;
+const title = (id, t, right) => `<text x="18" y="30" font-size="15" font-weight="700" fill="url(#gold${id})">${t}</text>${right ? `<text x="${W - 18}" y="30" font-size="10.5" text-anchor="end" fill="#a8b3bf">${right}</text>` : ''}<line x1="18" x2="${W - 18}" y1="40" y2="40" stroke="#D4A441" stroke-opacity="0.25"/>`;
 
 // ---------- stats card ----------
 function statsCard(s) {
@@ -104,7 +104,7 @@ function langsCard(langs) {
   let legend = '';
   top.forEach(([n, b], i) => {
     const cy = 83 + i * 17.5;
-    legend += `<circle cx="23" cy="${cy - 4}" r="4.5" fill="${color(n, i)}"/><text x="35" y="${cy}" font-size="12" fill="#E8DCC4">${n}</text><text x="${W - 18}" y="${cy}" font-size="12" text-anchor="end" fill="#8b949e">${((b / total) * 100).toFixed(1)}%</text>`;
+    legend += `<circle cx="23" cy="${cy - 4}" r="4.5" fill="${color(n, i)}"/><text x="35" y="${cy}" font-size="12" fill="#E8DCC4">${n}</text><text x="${W - 18}" y="${cy}" font-size="12" text-anchor="end" fill="#a8b3bf">${((b / total) * 100).toFixed(1)}%</text>`;
   });
   const grow = `<clipPath id="barL"><rect x="18" y="52" width="${BAR}" height="9" rx="4.5"><animate attributeName="width" from="0" to="${BAR}" dur="1.6s" begin="0.3s"/></rect></clipPath>`;
   return svgWrap({ defs: defs('L') + grow, body: `${frame('L', 3)}<g font-family="${FONT}">${title('L', 'Top Languages', 'by code size')}<g clip-path="url(#barL)">${bar}</g>${legend}</g>` });
@@ -114,9 +114,9 @@ function langsCard(langs) {
 function streakCard(st, total) {
   const cx = W / 2, cy = 97, r = 27, C = 2 * Math.PI * r;
   const ring = `<circle cx="${cx}" cy="${cy}" r="${r}" fill="none" stroke="#30363d" stroke-width="5"/><circle cx="${cx}" cy="${cy}" r="${r}" fill="none" stroke="url(#goldK)" stroke-width="5" stroke-linecap="round" stroke-dasharray="${C.toFixed(1)}" stroke-dashoffset="${(C * 0.12).toFixed(1)}" transform="rotate(-90 ${cx} ${cy})"><animate attributeName="stroke-dashoffset" values="${C.toFixed(1)};${(C * 0.12).toFixed(1)}" dur="1.8s" begin="0.3s" calcMode="spline" keySplines="0.3 0 0.2 1" keyTimes="0;1"/></circle><circle cx="${cx}" cy="${cy}" r="${r + 4}" fill="none" stroke="#D4A441" stroke-opacity="0.35"><animate attributeName="r" values="${r + 3};${r + 9};${r + 3}" dur="3s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.4;0;0.4" dur="3s" repeatCount="indefinite"/></circle>`;
-  const side = (x, v, label, sub) => `<text x="${x}" y="104" font-size="22" font-weight="800" text-anchor="middle" fill="#E8DCC4">${v}</text><text x="${x}" y="121" font-size="11" font-weight="600" text-anchor="middle" fill="#E8DCC4">${label}</text><text x="${x}" y="134" font-size="10" text-anchor="middle" fill="#8b949e">${sub}</text>`;
+  const side = (x, v, label, sub) => `<text x="${x}" y="104" font-size="22" font-weight="800" text-anchor="middle" fill="#E8DCC4">${v}</text><text x="${x}" y="121" font-size="11" font-weight="600" text-anchor="middle" fill="#E8DCC4">${label}</text><text x="${x}" y="134" font-size="10" text-anchor="middle" fill="#a8b3bf">${sub}</text>`;
   const sep = x => `<line x1="${x}" x2="${x}" y1="62" y2="146" stroke="#D4A441" stroke-opacity="0.2"/>`;
-  const body = `${title('K', 'Contribution Streak', 'past year')}${sep(90)}${sep(182)}${side(46, num(total), 'Total', 'contributions')}${ring}<text x="${cx}" y="${cy + 8}" font-size="24" font-weight="800" text-anchor="middle" fill="url(#goldK)">${st.current.n}</text><text x="${cx}" y="150" font-size="11.5" font-weight="700" text-anchor="middle" fill="#D4A441">Current Streak</text><text x="${cx}" y="163" font-size="10" text-anchor="middle" fill="#8b949e">${fmtRange(st.current)}</text>${side(226, st.longest.n, 'Longest', fmtRange(st.longest))}`;
+  const body = `${title('K', 'Contribution Streak', 'past year')}${sep(90)}${sep(182)}${side(46, num(total), 'Total', 'contributions')}${ring}<text x="${cx}" y="${cy + 8}" font-size="24" font-weight="800" text-anchor="middle" fill="url(#goldK)">${st.current.n}</text><text x="${cx}" y="150" font-size="11.5" font-weight="700" text-anchor="middle" fill="#D4A441">Current Streak</text><text x="${cx}" y="163" font-size="10" text-anchor="middle" fill="#a8b3bf">${fmtRange(st.current)}</text>${side(226, st.longest.n, 'Longest', fmtRange(st.longest))}`;
   return svgWrap({ defs: defs('K'), body: `${frame('K', 5)}<g font-family="${FONT}">${body}</g>` });
 }
 

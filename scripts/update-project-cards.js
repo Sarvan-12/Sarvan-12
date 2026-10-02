@@ -41,7 +41,7 @@ const textDefs = (w, dur, delay) => `${goldV('gold')}<filter id="tsh" x="-10%" y
 
 // ---------- one project card (420x160) ----------
 function card({ repo, lines, tags, lang, stars, forks }, i) {
-  const lc = LANG_COLORS[lang] || '#8b949e';
+  const lc = LANG_COLORS[lang] || '#a8b3bf';
   const lw = Math.round(24 + lang.length * 6.5 + 12);
   const sw = sweep({ id: 'c', w: 420, h: 190, rx: 10, delay: i * 2, dur: 10, band: 60, op: 0.16 });
   let x = 20, pills = '';
@@ -76,7 +76,7 @@ function card({ repo, lines, tags, lang, stars, forks }, i) {
   <line x1="14" x2="406" y1="2" y2="2" stroke="url(#hl)" stroke-width="1"/>
   <path d="M10 188.5 H410" stroke="#000" stroke-opacity="0.5" stroke-width="1"/>
   ${text3d({ x: 20, y: 36, size: 18, anchor: 'start', content: repo, depth: 2 })}
-  <g font-family="${FONT}" font-size="13" fill="#8b949e">${desc}</g>
+  <g font-family="${FONT}" font-size="13" fill="#a8b3bf">${desc}</g>
   <g font-family="${FONT}" font-size="11">${chips}</g>
   <g font-family="${FONT}" font-size="12" filter="url(#sh)">${pills}</g>
   ${sw.body}
