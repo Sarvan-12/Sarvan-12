@@ -7,6 +7,7 @@ const path = require('path');
 const USER = process.env.GH_USER || 'Sarvan-12';
 const OUT = path.join(__dirname, '..', 'assets', 'contribution-graph.svg');
 const FONT = "'Segoe UI','Helvetica Neue',Arial,sans-serif";
+const RANGE_DAYS = 30;
 
 async function loadDays() {
   const res = await fetch(`https://github.com/users/${USER}/contributions`, { headers: { 'User-Agent': 'contribution-graph-updater' } });
@@ -24,12 +25,12 @@ async function loadDays() {
     days.push({ date: date[1], count: n });
   }
   days.sort((a, b) => (a.date < b.date ? -1 : 1));
-  if (days.length < 31) throw new Error(`calendar looked incomplete (${days.length} days) - not overwriting the graph`);
+  if (days.length < RANGE_DAYS) throw new Error(`calendar looked incomplete (${days.length} days, need ${RANGE_DAYS}) - not overwriting the graph`);
   return days;
 }
 
 function build(all) {
-  const days = all.slice(-31);
+  const days = all.slice(-RANGE_DAYS);
   const W = 800, H = 312, L = 56, R = 30, T = 78, B = 56;
   const pw = W - L - R, ph = H - T - B, base = T + ph;
   const max = Math.max(...days.map(d => d.count), 1);
@@ -121,6 +122,6 @@ function build(all) {
   const svg = build(days);
   if (/NaN|undefined/.test(svg)) throw new Error('generated SVG contains invalid values');
   fs.writeFileSync(OUT, svg);
-  const last = days.slice(-31);
+  const last = days.slice(-RANGE_DAYS);
   console.log(`wrote ${path.relative(process.cwd(), OUT)}: ${last[0].date} -> ${last[last.length - 1].date}, ${last.reduce((s, d) => s + d.count, 0)} contributions`);
 })().catch(err => { console.error(err.message); process.exit(1); });
