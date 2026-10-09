@@ -10,9 +10,10 @@ const href = /href="(data:image\/gif;base64,[^"]+)"/.exec(src);
 if (!href) throw new Error('no embedded GIF found in assets/coding-gif.svg');
 
 const W = 272, H = 171;
-const FONT = "'Segoe UI','Helvetica Neue',Arial,sans-serif";
+const { fontFaceCss, BODY: FONT } = require('./font-embed');
 const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" width="${W}" height="${H}">
   <defs>
+    <style>${fontFaceCss({ Inter: [600] })}</style>
     <clipPath id="c"><rect width="${W}" height="${H}" rx="12"/></clipPath>
     <linearGradient id="fb" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F8EBC4"/><stop offset="0.35" stop-color="#D4A441"/><stop offset="0.7" stop-color="#8a6a1f"/><stop offset="1" stop-color="#D4A441"/></linearGradient>
     <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0.55" stop-color="#0d1117" stop-opacity="0"/><stop offset="1" stop-color="#0d1117" stop-opacity="0.85"/></linearGradient>
