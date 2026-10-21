@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 190" width="600" height="190">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 162" width="600" height="162">
   <defs>
     <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F8EBC4"/><stop offset="0.45" stop-color="#D4A441"/><stop offset="1" stop-color="#9C7420"/></linearGradient>
     <linearGradient id="bgc" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1e2631"/><stop offset="1" stop-color="#10141a"/></linearGradient>
@@ -8,11 +8,11 @@
     <linearGradient id="ln" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#D4A441" stop-opacity="0"/><stop offset="0.5" stop-color="#D4A441" stop-opacity="0.8"/><stop offset="1" stop-color="#D4A441" stop-opacity="0"/></linearGradient>
     <filter id="ts" x="-5%" y="-30%" width="110%" height="180%"><feDropShadow dx="0" dy="1.2" stdDeviation="1" flood-color="#000" flood-opacity="0.7"/></filter>
   </defs>
-  <rect x="0.5" y="0.5" width="599" height="189" rx="10" fill="url(#bgc)" stroke="url(#bd)" stroke-width="1.5"/>
-  <rect x="0.5" y="0.5" width="599" height="189" rx="10" fill="url(#rg)"/>
+  <rect x="0.5" y="0.5" width="599" height="161" rx="10" fill="url(#bgc)" stroke="url(#bd)" stroke-width="1.5"/>
+  <rect x="0.5" y="0.5" width="599" height="161" rx="10" fill="url(#rg)"/>
   <line x1="14" x2="586" y1="2" y2="2" stroke="url(#hl)" stroke-width="1"/>
   <text x="300" y="76" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="72" font-weight="700" fill="url(#gold)">“</text>
-  <text x="300" y="92" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="18" font-style="italic" fill="#f0f3f6" filter="url(#ts)">Programs must be written for people to read,</text><text x="300" y="120" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="18" font-style="italic" fill="#f0f3f6" filter="url(#ts)">and only incidentally for machines to execute.</text>
-  <rect x="240" y="138" width="120" height="1.5" fill="url(#ln)"/>
-  <text x="300" y="160" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="1" fill="#D4A441">— HAROLD ABELSON</text>
+  <text x="300" y="92" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="18" font-style="italic" fill="#f0f3f6" filter="url(#ts)">Talk is cheap. Show me the code.</text>
+  <rect x="240" y="110" width="120" height="1.5" fill="url(#ln)"/>
+  <text x="300" y="132" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="1" fill="#D4A441">— LINUS TORVALDS</text>
 </svg>
