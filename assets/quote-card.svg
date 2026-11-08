@@ -12,7 +12,7 @@
   <rect x="0.5" y="0.5" width="599" height="189" rx="10" fill="url(#rg)"/>
   <line x1="14" x2="586" y1="2" y2="2" stroke="url(#hl)" stroke-width="1"/>
   <text x="300" y="76" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="72" font-weight="700" fill="url(#gold)">“</text>
-  <text x="300" y="92" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="18" font-style="italic" fill="#f0f3f6" filter="url(#ts)">Debugging is twice as hard as writing the code</text><text x="300" y="120" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="18" font-style="italic" fill="#f0f3f6" filter="url(#ts)">in the first place.</text>
+  <text x="300" y="92" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="18" font-style="italic" fill="#f0f3f6" filter="url(#ts)">Truth can only be found in one place: the</text><text x="300" y="120" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="18" font-style="italic" fill="#f0f3f6" filter="url(#ts)">code.</text>
   <rect x="240" y="138" width="120" height="1.5" fill="url(#ln)"/>
-  <text x="300" y="160" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="1" fill="#D4A441">— BRIAN KERNIGHAN</text>
+  <text x="300" y="160" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="1" fill="#D4A441">— ROBERT C. MARTIN</text>
 </svg>
